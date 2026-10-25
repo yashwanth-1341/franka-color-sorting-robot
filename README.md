@@ -8,11 +8,7 @@ page, generates a new random layout of boxes and obstacles.
 **New to the project? Read [DOCUMENTATION.md](DOCUMENTATION.md)**: installation,
 every file explained, the colour detection and the coordinate transformations.
 
-## 🎥 Pick and Place Demo
-
-[![Demo: the Panda picks the red box around the obstacles and places it in the yellow crate (click for the full video)](demo.gif)](demo.mp4)
-
-*Click the animation for the full video ([demo.mp4](demo.mp4)).*
+https://github.com/user-attachments/assets/8f789570-0bba-4835-8808-e1d1e641c410
 
 > **At a glance:** a Franka Emika Panda (7 joints) in Gazebo Harmonic sorts red,
 > green and blue boxes into a crate. OpenCV HSV segmentation finds each box in
