@@ -1,0 +1,31 @@
+{
+    "cmake.sourceDirectory": "/workspaces/franka-panda-robot/src/panda_description",
+    "python.autoComplete.extraPaths": [
+        "/workspaces/franka-panda-robot/build/panda_pick_place",
+        "/workspaces/franka-panda-robot/install/panda_pick_place/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/install/pymoveit2/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/build/panda_vision",
+        "/workspaces/franka-panda-robot/install/panda_vision/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/install/panda_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/workspaces/franka-panda-robot/build/panda_pick_place",
+        "/workspaces/franka-panda-robot/install/panda_pick_place/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/install/pymoveit2/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/build/panda_vision",
+        "/workspaces/franka-panda-robot/install/panda_vision/lib/python3.12/site-packages",
+        "/workspaces/franka-panda-robot/install/panda_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

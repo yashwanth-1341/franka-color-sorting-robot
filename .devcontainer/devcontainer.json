@@ -1,0 +1,18 @@
+{
+"name": "ROS 2 Jazzy - ${localWorkspaceFolderBasename}",
+"build": { "dockerfile": "Dockerfile" },
+"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+"remoteEnv": {
+"WS": "${containerWorkspaceFolder}",
+"PKG": "my_robot_pkg"
+},
+"forwardPorts": [8765],
+"portsAttributes": {
+"8765": { "label": "Panda colour picker", "onAutoForward": "openBrowser" }
+},
+"customizations": {
+"vscode": {
+"extensions": ["ms-iot.vscode-ros", "ms-python.python", "ms-vscode.cpptools"]
+}
+}
+}

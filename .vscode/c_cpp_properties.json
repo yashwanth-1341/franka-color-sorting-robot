@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/jazzy/include/**",
+        "/workspaces/franka-panda-robot/src/panda_bringup/include/**",
+        "/workspaces/franka-panda-robot/src/panda_controller/include/**",
+        "/workspaces/franka-panda-robot/src/panda_description/include/**",
+        "/workspaces/franka-panda-robot/src/panda_moveit/include/**",
+        "/workspaces/franka-panda-robot/src/pymoveit2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
